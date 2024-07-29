@@ -1,1 +1,2 @@
-## This Folder contains two Python automation scripts one named as 
+## This Folder contains two Python automation scripts one named as Automated_Backup_Solution.py and other named as Automated_System_Health_checker.py files.
+#### Automated_Backup_Solution.py > This file creates backup in aws s3 bucket by taking data from user specified directory in his/her local machine using aws lambda function. In this code aws sdk boto3 is used to interact with the local system.   
