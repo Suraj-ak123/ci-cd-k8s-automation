@@ -6,3 +6,6 @@
 
 #### Note: In this Directory there is a directory named PythonScripts where Problem Statement 2's two python scripts are separately placed in files, and a brief description of the file and regarding its script is mentioned in that directory's Readme file, please go through it.
 
+
+
+#### As mentioned Github repo is made private and the access has been enabled for following github IDs: nyrahul, SujithKasireddy
