@@ -1,5 +1,5 @@
 ## Title: Containerisation and Deployment of Wisecow Application on Kubernetes 
-### To check the actions re run the work flow. 
+### To check the actions re-run the work flow. 
 #### we can access the end result at http://a242a8c84080e4799af8ed39a0c1d631-252596109.ap-southeast-2.elb.amazonaws.com/
 ![Screenshot 2024-07-30 125707](https://github.com/user-attachments/assets/3a580a3b-dcad-49e9-841b-5f80be55effc)
 
